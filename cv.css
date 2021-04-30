@@ -1,0 +1,52 @@
+#surname {
+    text-align: center;
+}
+
+.it {
+    text-indent: 1rem;
+}
+
+.about {
+    
+    border-style: groove;
+    
+    text-align: center;
+    padding-right: 0px;
+    margin: 0px;
+}
+
+.bod {
+    border-style: ridge;
+    background-color:	#f8f8ff;
+}
+
+.prifle {
+    margin: 4rem;
+    background-color:	#87cefa;
+}
+
+
+.tan {
+    border-style: outset;
+}
+
+.person {
+    list-style: square;
+}
+
+h3 {
+    border-bottom: 1px dashed #999999;
+    }
+    h1,h2,h3,h4{
+        letter-spacing: .06em;
+        }
+        a#pdf { display: block; float:left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+        a#pdf:hover { background: #222; }
+
+        h1 { font-size: 40px; text-transform: uppercase; letter-spacing: 3px; }
+        h1, h2, h3, h4 { color: #333; }
+        .details{font-size: 25px; text-transform: uppercase; letter-spacing: 3px;    }
+        .attributes {font-size: 25px; text-transform: uppercase; letter-spacing: 3px;  }
+        .synopsis{
+            font-size: 25px; text-transform: uppercase; letter-spacing: 3px;
+        }
