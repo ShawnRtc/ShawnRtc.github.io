@@ -16,28 +16,33 @@
 }
 
 .bod {
-    border-style: ridge;
+    
     background-color:	#f8f8ff;
 
+background-image:url(Blue-Background.jpg);
 }
 
 .profile {
-    margin: 4rem;
+    margin: 4rem;  margin-right: 100px;
     background-color:	#87cefa;
     background-image: url(bg.jpg);
 }
 
 
 .shn {
-    border-style: outset;
+    border-style: outset; margin-right: 241px;
+    
 }
+
+
+
 
 .person {
     list-style: square;
 }
 
 h3 {
-    border-bottom: 1px dashed #999999;
+    border-bottom: 1px solid #999999; margin-right: 1050px;
     }
     h1,h2,h3,h4{
         letter-spacing: .06em;
@@ -56,3 +61,29 @@ h3 {
         .synopsis{
             font-size: 25px; text-transform: uppercase; letter-spacing: 3px;
         }
+    .year1{
+     border-top-style: groove;
+     border-width: 1px ;
+     border-bottom-style: groove;
+     border-right-style: groove;
+     margin-right: 250px;
+     border-width: 1px ;
+     
+     
+  margin-left: 22px;
+    }
+
+    .year2{
+        border-top-style: groove;
+        border-width: 1px ;
+        border-bottom-style: groove;
+        border-right-style: groove;
+        margin-right: 250px;
+        border-width: 1px ;
+
+
+
+        margin-left: 22px;
+    }
+
+    
